@@ -1,6 +1,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 :) </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 정수진의 GitHub에 오신걸 환영합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 서비스에 의미를 더하는
+데이터 분석가 정수진입니다! </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
