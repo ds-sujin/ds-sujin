@@ -38,4 +38,11 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-sujin&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ds-sujin&utm_content=farm">
+        <img
+          src="https://render.gitanimals.org/farms/ds-sujin"
+          width="600"
+          height="300"
+        />
+    </a>
     
