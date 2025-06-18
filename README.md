@@ -26,8 +26,14 @@
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
       <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-    </div>
-    </div>
+    </div><br>
+        <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ds-sujin&utm_content=farm">
+        <img
+          src="https://render.gitanimals.org/farms/ds-sujin"
+          width="600"
+          height="300"
+        />
+    </a>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
     <div style="text-align: left;"> <a href=https://www.instagram.com/ds_sujin02/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ds_sujin02/"> </a>
@@ -39,11 +45,4 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-sujin&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ds-sujin&utm_content=farm">
-        <img
-          src="https://render.gitanimals.org/farms/ds-sujin"
-          width="600"
-          height="300"
-        />
-    </a>
     
