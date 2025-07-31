@@ -5,23 +5,6 @@
 
 <h1 align="center">⭐ Welcome to Sujin's GitHub ⭐</h1>
 
-
-
-<!-- Stats -->
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ds-sujin&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-sujin&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" />
-  </p>
-</div>
-
-<!-- GitAnimals -->
-<p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ds-sujin&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/ds-sujin" width="600" height="300" />
-  </a>
-</p>
-
 <!-- Tech Stack -->
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
@@ -72,6 +55,20 @@
   </div>
 </div>
 
+<!-- Stats -->
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ds-sujin&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-sujin&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" />
+  </p>
+</div>
+
+<!-- GitAnimals -->
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ds-sujin&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/ds-sujin" width="600" height="300" />
+  </a>
+</p>
 
 <!-- 푸터 이미지 -->
 <p align="center">
