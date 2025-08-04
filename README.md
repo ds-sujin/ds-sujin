@@ -87,8 +87,8 @@
   - **시각장애인을 위한 도슨트 앱 [ArtVoice](https://github.com/kw-chi-community/Art_voice)**
 
     서비스 적용 전시
-    - 제11회 노원구 장애인 미술전 <code>2024.10.28</code>
-    - 2024년 한국장애인미술협회전 <code>2024.11.18</code>
+    - 제11회 노원구 장애인 미술전 
+    - 2024년 한국장애인미술협회전 
 
 
 <a name="chic"></a>
