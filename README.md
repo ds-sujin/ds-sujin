@@ -4,11 +4,10 @@
 사용자 중심 서비스 기획과 구현에 흥미를 가지고 있으며,  
 [연구실](#da-lab), [외부 프로젝트](#project), [개발 동아리](#chic)를 통해 기술과 협업 역량을 쌓아가고 있습니다.
 
----
+<details>
+<summary><strong>🔧 Tech Stack</strong></summary>
 
-## 🔧 Tech Stack
-
-<table>
+  <table>
   <tr>
     <td><strong>ML / DL / NLP</strong></td>
     <td>
@@ -49,8 +48,20 @@
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-sujin&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" />
+</details>
 
----
+<details>
+<summary><strong>📈 GitHub Stats</strong></summary>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ds-sujin&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" />
+
+
+### 🌾 GitAnimals Farm
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ds-sujin&utm_content=farm">
+  <img src="https://render.gitanimals.org/farms/ds-sujin" width="600" height="300" />
+</a>
+</details>
 
 ## 🏗️ Ongoing Projects
 
@@ -85,7 +96,7 @@
 - <strong>💡 개발 전공 동아리 [CHIC](https://github.com/kw-chi-community)  임원진 (2023.09 ~ 2025.02)</strong>
   
   - **CHIC x UXITER 웹서비스**  
-    [아이돌 지망생을 위한 사용자 중심 웹서비스](https://github.com/WantToPick/BE-WantToPick))
+    [아이돌 지망생을 위한 사용자 중심 웹서비스](https://github.com/WantToPick/BE-WantToPick)
 
   - **라즈베리파이 기반 강의실 예약 웹서비스**   
     [학생용](https://github.com/kw-chi-community/CHIC-25-CLASSROOM-STUDENT) / [관리자용](https://github.com/kw-chi-community/CHIC-25-CLASSROOM-ADMIN)  / [키오스크](https://github.com/kw-chi-community/CHIC-25-CLASSROOM-KIOSK)
@@ -139,20 +150,6 @@
   *양파 도매 가격 예측을 위한 12가지 모델 성능 및 지역별 결과 비교 분석*  
   📰 [논문 수록 보기](https://koreascience.kr/article/CFKO202433161848561.pub?lang=ko)
 </details>
-
-
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ds-sujin&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" />
-
-
-## 🌾 GitAnimals Farm
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ds-sujin&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/ds-sujin" width="600" height="300" />
-</a>
-
----
 
 ## 🙋‍♀️ Contact
 
