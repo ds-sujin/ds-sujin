@@ -93,9 +93,9 @@
 
 <a name="chic"></a>
 
-- <strong>💡 개발 전공 동아리 [CHIC](https://github.com/kw-chi-community)  임원진 (2023.09 ~ 2025.02)</strong>
+- <strong>💡 개발 전공 동아리 [CHIC](https://github.com/kw-chi-community)  운영진 (2023.09 ~ 2025.02)</strong>
   
-  - **CHIC x UXITER 웹서비스**  
+  - **CHIC x UXITER - 개발 x 디자인 협업 프로젝트**  
     [아이돌 지망생을 위한 사용자 중심 웹서비스](https://github.com/WantToPick/BE-WantToPick)
 
   - **라즈베리파이 기반 강의실 예약 웹서비스**   
