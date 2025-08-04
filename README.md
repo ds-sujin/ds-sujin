@@ -66,10 +66,10 @@
 ## 🏗️ Ongoing Projects
 
 <a name="da-lab"></a>  
-<strong>📌 [DA Lab](https://sites.google.com/view/minsucho) – 광운대학교 Data Analytics 연구실 (2024.06 ~ present)</strong>
+<strong>📌 [DA Lab](https://sites.google.com/view/minsucho) – 광운대학교 Data Analytics 연구실 </strong> <code>2024.06 ~ present</code>
 - TBD. 
 
-<strong>📌 [디랩코딩학원 정자점](https://www.daddyslab.com/dlab_jeongja) 튜터 (2023.06 ~ present) </strong>
+<strong>📌 [디랩코딩학원 정자점](https://www.daddyslab.com/dlab_jeongja) 튜터 </strong><code>2023.06 ~ present</code>
 - 초·중등 대상
 - 강의 분야  
   - Python / ML / NLP: 파이썬 기본/심화, 알고리즘, 텍스트 마이닝  
@@ -82,18 +82,18 @@
 ## 🎓 Activities & Projects
 
 
-- <strong>💡 소프트웨어 서포터즈 [소원](https://www.instagram.com/kw_sowon/) 봉사단 (2024.03 ~ 2025.02)</strong>
+- <strong>💡 소프트웨어 서포터즈 [소원](https://www.instagram.com/kw_sowon/) 봉사단 </strong><code>2024.03 ~ 2025.02</code>
 
   - **시각장애인을 위한 도슨트 앱 [ArtVoice](https://github.com/kw-chi-community/Art_voice)**
 
     서비스 적용 전시
-    - 제11회 노원구 장애인 미술전 (2024.10.28)
-    - 2024년 한국장애인미술협회전 (2024.11.18)
+    - 제11회 노원구 장애인 미술전 <code>2024.10.28</code>
+    - 2024년 한국장애인미술협회전 <code>2024.11.18</code>
 
 
 <a name="chic"></a>
 
-- <strong>💡 개발 전공 동아리 [CHIC](https://github.com/kw-chi-community)  운영진 (2023.09 ~ 2025.02)</strong>
+- <strong>💡 개발 전공 동아리 [CHIC](https://github.com/kw-chi-community)  운영진 </strong><code>2023.09 ~ 2025.02</code>
   
   - **CHIC x UXITER - 개발 x 디자인 협업 프로젝트**  
     [아이돌 지망생을 위한 사용자 중심 웹서비스](https://github.com/WantToPick/BE-WantToPick)
@@ -104,32 +104,32 @@
 
 
 <a name="project"></a>
-- <strong>💡 2024 한이음 프로젝트 (2024.03 ~ 2024.12)</strong>
+- <strong>💡 2024 한이음 프로젝트 </strong><code>2024.03 ~ 2024.12</code>
   - [Gen AI] 음성 텍스트 변환 및 GPT기반 이미지 생성 서비스 개발
   - NLP와 머신러닝을 이용한 농산물 도매 가격 측정 및 예측 서비스 구축
 ## 🏆 Awards & Paper
 <details>
 <summary><strong>🥇 수상 내역 </strong></summary>
 
-- **25-1 웨어러블 로봇 설계 및 인체데이터 분석 매치업 경진대회** (2025.05.30) *🥇 최우수상*  
+- **25-1 웨어러블 로봇 설계 및 인체데이터 분석 매치업 경진대회** <code>2025.05.30</code> *🥇 최우수상*  
   Chair Squat 행동 보조 시스템 + EMG 기반 조건부 보조력 인가  
   🔧 [Python] EMG 시그널 분석, [C] 보조 알고리즘 설계
 
-- **24-2 디지털 헬스케어 서비스 프로젝트 매치업 경진대회** (2024.12.20) *🥇 최우수상*  
+- **24-2 디지털 헬스케어 서비스 프로젝트 매치업 경진대회** <code>2024.12.20</code> *🥇 최우수상*  
   반려견 건강 지킴 서비스 **‘독신사’** 기획 및 특허 분석
 
-- **2024 한이음 ICT 멘토링 공모전** (2024.12.04) *🥉 입선*  
+- **2024 한이음 ICT 멘토링 공모전** <code>2024.12.04</code> *🥉 입선*  
   음성 텍스트 변환 + GPT 기반 이미지 생성 서비스 **Drory** 개발  
   🎥 [시연 영상 보기](https://youtu.be/auFpNdytrI4)
 
-- **24-1 의료빅데이터 분석 매치업 경진대회** (2024.06.21) *🥇 최우수상*  
+- **24-1 의료빅데이터 분석 매치업 경진대회** <code>2024.06.21</code> *🥇 최우수상*  
   심부전 데이터를 활용한 질병 요인 분석  
   🔧 [Jamovi] 기반 통계 분석
 
-- **2024 한국품질경영학회 춘계 아이디어 경진대회** (2024.05.10) *🥉 품질미래상*  
+- **2024 한국품질경영학회 춘계 아이디어 경진대회** <code>2024.05.10</code> *🥉 품질미래상*  
   도로 포트홀 탐지 및 보수를 위한 데이터 확보 및 분석 방안 제안
 
-- **2023 노원구 청년 빅데이터 활용 아이디어 공모전** (2023.12.14) *🥇 최우수상*  
+- **2023 노원구 청년 빅데이터 활용 아이디어 공모전** <code>2023.12.14</code> *🥇 최우수상*  
   프로젝트: **노원구 Clean up, 노원구민 Property up!**  
   🔧 [R] 공공 데이터 기반 정책 분석 및 제안
 </details>
